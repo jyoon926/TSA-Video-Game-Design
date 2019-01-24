@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1548206519,
+	"version": 1548368324,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,7 +7,6 @@
 		"offlineClient.js",
 		"img/player-sheet0.png",
 		"img/player-sheet1.png",
-		"img/player-sheet2.png",
 		"img/camera-sheet0.png",
 		"img/cursor-sheet0.png",
 		"img/playerlight-sheet0.png",
