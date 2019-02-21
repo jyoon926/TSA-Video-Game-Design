@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1550778420,
+	"version": 1550782229,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,6 +22,8 @@
 		"images/collisionsquare.png",
 		"images/tilemap.png",
 		"images/collisionangle-sheet0.png",
+		"images/hud-sheet0.png",
+		"images/heart1-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
