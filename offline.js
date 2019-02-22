@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1550782445,
+	"version": 1550859776,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,8 +15,8 @@
 		"images/startbackground-sheet0.png",
 		"images/startbutton-sheet0.png",
 		"images/sprite-sheet0.png",
-		"images/loadingscreen-sheet0.png",
-		"images/loadingscreen-sheet1.png",
+		"images/loadingscreenin-sheet0.png",
+		"images/loadingscreenin-sheet1.png",
 		"images/sprite3-sheet0.png",
 		"images/tileset1.png",
 		"images/collisionsquare.png",
@@ -24,12 +24,17 @@
 		"images/collisionangle-sheet0.png",
 		"images/hud-sheet0.png",
 		"images/heart1-sheet0.png",
+		"images/energybar-sheet0.png",
+		"images/black-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
+		"munro-webfont.woff",
+		"munro-webfont.woff2",
+		"stylesheet.css",
 		"penumbra.png"
 	]
 }
