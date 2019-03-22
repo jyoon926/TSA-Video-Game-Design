@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1553222857,
+	"version": 1553223550,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -26,6 +26,7 @@
 		"images/heart1-sheet0.png",
 		"images/energybar-sheet0.png",
 		"images/black-sheet0.png",
+		"images/wasdinstructions-sheet0.png",
 		"media/hit_02.m4a",
 		"media/hit_02.ogg",
 		"media/shoot_01.m4a",
