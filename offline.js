@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1553223550,
+	"version": 1553317174,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,7 +10,7 @@
 		"images/camera-sheet0.png",
 		"images/cursor-sheet0.png",
 		"images/playerlight-sheet0.png",
-		"images/lineofsight-sheet0.png",
+		"images/guard-sheet0.png",
 		"images/warning-sheet0.png",
 		"images/startbackground-sheet0.png",
 		"images/startbutton-sheet0.png",
@@ -27,6 +27,15 @@
 		"images/energybar-sheet0.png",
 		"images/black-sheet0.png",
 		"images/wasdinstructions-sheet0.png",
+		"images/verticaltable-sheet0.png",
+		"images/spritefont.png",
+		"images/gun-sheet0.png",
+		"images/bullet-sheet0.png",
+		"images/key-sheet0.png",
+		"images/leave-sheet0.png",
+		"images/nuclearreactor-sheet0.png",
+		"images/bg.png",
+		"images/part-sheet0.png",
 		"media/hit_02.m4a",
 		"media/hit_02.ogg",
 		"media/shoot_01.m4a",
@@ -53,6 +62,11 @@
 		"munro-webfont.woff",
 		"munro-webfont.woff2",
 		"stylesheet.css",
+		"backstory.mp4",
+		"level 1.mp4",
+		"level 2.mp4",
+		"level 2_1.mp4",
+		"level 3.mp4",
 		"penumbra.png"
 	]
 }
